@@ -1,0 +1,9 @@
+// @import 'tailwind.css';
+@tailwind base; /* Preflight will be injected here */
+@tailwind components;
+@tailwind utilities;
+
+@import '_reset.scss';
+@import '_var.scss';
+@import '_base.scss';
+@import '_style.scss';
