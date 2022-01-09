@@ -6,6 +6,6 @@ module.exports = {
     port: 8080
   },
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/f2e-tourism/'
+    ? '/f2e-bikeMap/'
     : '/'
 }

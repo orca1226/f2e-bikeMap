@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+deploy.sh
+.gitignore
 
 
 # local env files
